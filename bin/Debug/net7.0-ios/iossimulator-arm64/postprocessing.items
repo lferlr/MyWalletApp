@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MyWalletApp.app/MyWalletApp">
+      <BCSymbolMapName>MyWalletApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MyWalletApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/lucasrodrigues/dev/GitHub/MyWalletApp/MyWalletApp/obj/Debug/net7.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MyWalletApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/lucasrodrigues/dev/GitHub/MyWalletApp/MyWalletApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
